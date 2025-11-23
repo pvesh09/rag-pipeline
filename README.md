@@ -103,5 +103,5 @@ Licensed under MIT License (or specify your preferred license).
 
 ---
 
-Feel free to contact at [your-email@example.com] for questions or collaboration.
+
 
