@@ -18,7 +18,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline combinin
 - Ollama app installed and running locally with pulled model (e.g., `llama3`)
 
 ### Clone Repository
-git clone https://github.com/your-username/rag-pipeline-ollama.git
+git clone https://github.com/pvesh09/rag-pipeline.git
 cd rag-pipeline-ollama
 
 ### Setup Virtual Environment and Install Dependencies
