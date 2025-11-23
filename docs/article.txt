@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG) pipelines combine a retriever that searches over a vector database of documents and a generator large language model (LLM) that produces answers given retrieved chunks. 
+The RAG pipeline has three main stages: ingestion, retrieval, and generation.
